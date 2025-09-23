@@ -1,3 +1,5 @@
 # 允许所有搜索引擎爬取
 User-agent: *
 Allow: /
+# 指定站点地图，帮助搜索引擎更快发现页面
+Sitemap: https://tv.harper.dpdns.org/sitemap.xml
